@@ -61,7 +61,7 @@
 
         <div runat="server" style="float:right"> 
 
-            <asp:Label ID="cu" runat="server" Text="Currently visting this webiste from Malaysia"></asp:Label>
+            <asp:Label ID="cu" runat="server" Text="Currently visting this webiste from West-Europe"></asp:Label>
             
 
             </div>
